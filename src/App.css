@@ -1,0 +1,4 @@
+/* Global app-level tweaks */
+html {
+  scroll-behavior: smooth;
+}
